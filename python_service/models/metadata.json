@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "labels": {
+    "0": "Humano",
+    "1": "IA"
+  },
+  "artifacts": [
+    "tfidf_vectorizer.joblib",
+    "naive_bayes.joblib",
+    "svm_lineal.joblib"
+  ]
+}
